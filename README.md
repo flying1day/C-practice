@@ -1,4 +1,6 @@
 # C-practice
 
 This directory is mainly used for the practice for the C online class, which
-is used for review the knowledge learned during university.
+is used for reviewing the knowledge learned during university.
+
+This is going to be super simple.
